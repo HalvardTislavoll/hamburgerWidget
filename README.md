@@ -30,8 +30,7 @@ Create a class that;
   
 - a tab in a notebook
   
-
-![](file:///home/halvard/Skrivebord/Lenke til tmp/u_hamburger_widget_demo/assets/page-svg.png)
+![](./assets/page-svg.png)
 
 ## Development Start-up
 
