@@ -1,6 +1,5 @@
 # HowTo
-
-
+![](./assets/HamburgerWidgetDemo.png)
 ---
 
 APPLICATION INFORMATION AT STARTUP in the Terminal:
